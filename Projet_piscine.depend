@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1587928243 source:c:\users\mathis\desktop\info\projet_piscine\main.cpp
+	<iostream>
+
+1587974063 source:c:\users\mathis\desktop\info\projet_piscine\arrete.cpp
+	"Arrete.h"
+
+1587974087 c:\users\mathis\desktop\info\projet_piscine\arrete.h
+	"Sommet.h"
+
+1587974497 c:\users\mathis\desktop\info\projet_piscine\sommet.h
+	<iostream>
+
+1587974424 source:c:\users\mathis\desktop\info\projet_piscine\sommet.cpp
+	"Sommet.h"
+
